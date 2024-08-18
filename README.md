@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is DISSANG KEVIN <br>A passionate ML-IA /Full-Stack/Mobile   Developer from Cameroun</h2>
+<h2 align="left">Hi 👋! My name is DISSANG KEVIN <br>A passionate ML-IA🤖 / Full-Stack/Mobile-Developer📱  from Cameroun</h2>
 
 ###
 
