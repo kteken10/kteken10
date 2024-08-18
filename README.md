@@ -1,6 +1,15 @@
-<h2 align="left">Hi 👋! My name is DISSANG KEVIN <br>A passionate ML-IA🤖 / Full-Stack/Mobile-Developer📱  from Cameroun</h2>
+<h2 align="left">Hi 👋! I'm DISSANG KEVIN, a passionate Full-Stack Web and Mobile Developer📱 with a focus on AI and Machine Learning 🤖</h2>
+<br>
+- 🔭 **Currently**, I'm working on a mobile application in the healthcare domain that predicts diseases based on patient clinical data. Check out the project on [GitHub](https://github.com/kteken10/HealthcareMobileApp).
 
-###
+- 🌱 **At the moment**, I'm learning Flutter development and diving into AI and Machine Learning concepts.
+
+- ❓ **Feel free to ask** me about anything related to Full-Stack development, web technologies, or integrating AI into applications.
+
+- ⚡ **Fun fact:** I prefer using tabs over spaces.
+
+<br/>
+
 
 <div align="right">
   <img height="345" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
