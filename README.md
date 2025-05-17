@@ -10,7 +10,6 @@
 
 <br/>
 
-
 <div align="right">
   <img height="345" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
 </div>
@@ -22,11 +21,41 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kteken10&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=9&theme=ocean_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+## 🚀 Featured Projects
+
+Here are some of my most significant projects that demonstrate my expertise in mobile development and AI integration:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>💬 Flutter Chat App</h3>
+        <a href="https://github.com/kteken10/flutter_chat_app">
+          <img src="https://github.com/user-attachments/assets/493a2f65-a69d-438b-9bf6-6b4a2e6181e5" width="90%" alt="Chat App Screenshot"/>
+        </a>
+        <p>A real-time chat application built with Flutter and Firebase, featuring user authentication, instant messaging, and media sharing capabilities.</p>
+        <p><strong>Tech Stack:</strong> Flutter · Firebase · Dart</p>
+        <a href="https://github.com/kteken10/flutter_chat_app" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h3>🏥 Health Prediction App</h3>
+        <a href="https://github.com/kteken10/flutter_health_app">
+          <img src="https://github.com/user-attachments/assets/2014ccaf-6739-469f-bc04-8e653d88a2b7" width="90%" alt="Health App Screenshot"/>
+        </a>
+        <p>A healthcare application that predicts diabetes risk based on clinical data, combining Flutter with Machine Learning models for accurate predictions.</p>
+        <p><strong>Tech Stack:</strong> Flutter · Python · Scikit-learn · Dart</p>
+        <a href="https://github.com/kteken10/flutter_health_app" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -40,13 +69,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>  
 
-<div align="center">  
-  
-</div>
-
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -66,16 +89,12 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Mobile Dev  
 <div align="center">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>  
-
-
 
 ### Dev Ops  
 <div align="center">  
@@ -87,8 +106,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
 
 <p align="left">Contacts</p>
 
@@ -106,11 +123,8 @@
   </a>
 </div>
 
-
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/kteken10/kteken10/output/snake.svg" alt="Snake animation" />
-
-###
