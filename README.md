@@ -51,6 +51,20 @@ Here are some of my most significant projects that demonstrate my expertise in m
         </a>
       </td>
     </tr>
+
+    <tr>
+  <td align="center" width="50%">
+    <h3>📚 EduTrack - Gestion Scolaire</h3>
+    <a href="https://github.com/kteken10/flutter_school_app">
+      <img src="https://github.com/user-attachments/assets/your-edutrack-screenshot-id" width="90%" alt="EduTrack Screenshot"/>
+    </a>
+    <p>A Flutter-based academic management platform for schools, enabling student monitoring, grade management, performance analytics, and report generation.</p>
+    <p><strong>Tech Stack:</strong> Flutter · Firebase · Dart</p>
+    <a href="https://github.com/kteken10/flutter_school_app" target="_blank">
+      <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
+    </a>
+  </td>
+</tr>
   </table>
 </div>
 
