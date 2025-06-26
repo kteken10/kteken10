@@ -53,29 +53,18 @@ Here are some of my most significant projects that demonstrate my expertise in m
     </tr>
 
     <tr>
-      <td align="center" width="50%">
-        <h3>📚 EduTrack - Gestion Scolaire</h3>
-        <a href="https://github.com/kteken10/flutter_school_app">
-          <img src="https://github.com/user-attachments/assets/your-edutrack-screenshot-id" width="90%" alt="EduTrack Screenshot"/>
-        </a>
-        <p>A Flutter-based academic management platform for schools, enabling student monitoring, grade management, performance analytics, and report generation.</p>
-        <p><strong>Tech Stack:</strong> Flutter · Firebase · Dart</p>
-        <a href="https://github.com/kteken10/flutter_school_app" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h3>🛍️ Flutter Multi-Vendor E-Commerce App</h3>
-        <a href="https://github.com/kteken10/flutter_shop_app">
-          <img src="assets/screens/home.png" width="90%" alt="E-Commerce App Screenshot"/>
-        </a>
-        <p>A multi-vendor mobile e-commerce platform built with Flutter and Flask, designed for scalability and real-world use cases including vendor management, dynamic product listings, and checkout flow.</p>
-        <p><strong>Tech Stack:</strong> Flutter · Flask · Python · PostgreSQL</p>
-        <a href="https://github.com/kteken10/flutter_shop_app" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
-        </a>
-      </td>
-    </tr>
+  <td align="center" width="50%">
+    <h3>📚 EduTrack - Gestion Scolaire</h3>
+    <a href="https://github.com/kteken10/flutter_school_app">
+      <img src="https://github.com/user-attachments/assets/your-edutrack-screenshot-id" width="90%" alt="EduTrack Screenshot"/>
+    </a>
+    <p>A Flutter-based academic management platform for schools, enabling student monitoring, grade management, performance analytics, and report generation.</p>
+    <p><strong>Tech Stack:</strong> Flutter · Firebase · Dart</p>
+    <a href="https://github.com/kteken10/flutter_school_app" target="_blank">
+      <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
+    </a>
+  </td>
+</tr>
   </table>
 </div>
 
