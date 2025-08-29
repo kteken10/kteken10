@@ -54,7 +54,7 @@ Here are some of my most significant projects that demonstrate my expertise in m
       </td>
      
      
-    </tr>
+  
 
    
     
@@ -64,31 +64,46 @@ Here are some of my most significant projects that demonstrate my expertise in m
 <div align="center">
   <table>
     <tr>
-<!--       <td align="center" width="50%">
-        <h3>📚 EduTrack - School Management</h3>
-        <a href="https://github.com/kteken10/flutter_school_app" target="_blank">
-          <img src="https://github.com/user-attachments/assets/493a2f65-a69d-438b-9bf6-6b4a2e6181e5" width="90%" alt="Chat App Screenshot"/>
-        </a>
-        <p>A Flutter-based academic management platform for schools, enabling student monitoring, grade management, performance analytics, and report generation.</p>
-        <p><strong>Tech Stack:</strong> Flutter · Firebase · Dart</p>
-        <a href="https://github.com/kteken10/flutter_school_app" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
-        </a>
-      </td> -->
-      <td align="center" width="50%">
-        <h3>🛒 MyShop - E-commerce Mobile App</h3>
-        <a href="https://github.com/kteken10/flutter_ecommerce_app" target="_blank">
-          <img src="https://github.com/user-attachments/assets/7eef49b0-e79d-49da-8006-97c5696de468" width="90%" alt="Health App Screenshot"/>
-        </a>
-        <p>An e-commerce mobile application with full features: product browsing, shopping cart, secure payment, order management, and user profile.</p>
-        <p><strong>Tech Stack:</strong> Flutter · Flask · Dart · SQLAlchemy (ORM)</p>
-        <a href="https://github.com/kteken10/flutter_ecommerce_app" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
-        </a>
-      </td>
-     
-     
-    </tr>
+  <td align="center" width="50%">
+    <h3>📚 StudaPart Mobile App</h3>
+    <a href="https://github.com/kteken10/studapart_mobile" target="_blank">
+      <img src="https://github.com/user-attachments/assets/4c407cb4-75d2-41cc-88cc-36f23c643670" 
+           width="90%" 
+           alt="StudaPart Mobile App Screenshot"/>
+    </a>
+    <p>
+      Application mobile de gestion de logements étudiants avec fonctionnalités complètes : 
+      recherche de logements, réservation, gestion des paiements et communication avec les propriétaires, 
+      inspirée de la plateforme web Studapart.
+    </p>
+    <p><strong>Tech Stack:</strong> Flutter · Firebase · Dart</p>
+    <a href="https://github.com/kteken10/studapart_mobile" target="_blank">
+      <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" 
+           height="25" 
+           alt="View Project"/>
+    </a>
+  </td>
+
+  <td align="center" width="50%">
+    <h3>🛒 MyShop - E-commerce Mobile App</h3>
+    <a href="https://github.com/kteken10/flutter_ecommerce_app" target="_blank">
+      <img src="https://github.com/user-attachments/assets/7eef49b0-e79d-49da-8006-97c5696de468" 
+           width="90%" 
+           alt="MyShop E-commerce App Screenshot"/>
+    </a>
+    <p>
+      Application mobile de e-commerce avec fonctionnalités complètes : navigation produits, panier, 
+      paiement sécurisé, gestion des commandes et profil utilisateur.
+    </p>
+    <p><strong>Tech Stack:</strong> Flutter · Flask · Dart · SQLAlchemy (ORM)</p>
+    <a href="https://github.com/kteken10/flutter_ecommerce_app" target="_blank">
+      <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" 
+           height="25" 
+           alt="View Project"/>
+    </a>
+  </td>
+</tr>
+
 
    
     
