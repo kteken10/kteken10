@@ -52,32 +52,32 @@ Here are some of my most significant projects that demonstrate my expertise in m
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
         </a>
       </td>
+      <td align="center" width="50%">
+        <h3>💬 Flutter Chat App</h3>
+        <a href="https://github.com/kteken10/flutter_chat_app" target="_blank">
+          <img src="https://github.com/user-attachments/assets/493a2f65-a69d-438b-9bf6-6b4a2e6181e5" width="90%" alt="Chat App Screenshot"/>
+        </a>
+        <p>A real-time chat application built with Flutter and Firebase, featuring user authentication, instant messaging, and media sharing.</p>
+        <p><strong>Tech Stack:</strong> Flutter · Firebase · Dart</p>
+        <a href="https://github.com/kteken10/flutter_chat_app" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h3>🏥 Health Prediction App</h3>
+        <a href="https://github.com/kteken10/flutter_health_app" target="_blank">
+          <img src="https://github.com/user-attachments/assets/2014ccaf-6739-469f-bc04-8e653d88a2b7" width="90%" alt="Health App Screenshot"/>
+        </a>
+        <p>A healthcare app that predicts diabetes risk based on clinical data, combining Flutter with Machine Learning models for accurate predictions.</p>
+        <p><strong>Tech Stack:</strong> Flutter · Python · Scikit-learn · Dart</p>
+        <a href="https://github.com/kteken10/flutter_health_app" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
+        </a>
+      </td>
     </tr>
 
-    <tr>
-      <td align="center" width="50%">
-        <h3>📚 EduTrack - School Management</h3>
-        <a href="https://github.com/kteken10/flutter_school_app" target="_blank">
-          <img src="https://via.placeholder.com/300x200/2c3e50/ffffff?text=EduTrack+App" width="90%" alt="EduTrack Screenshot"/>
-        </a>
-        <p>A Flutter-based academic management platform for schools, enabling student monitoring, grade management, performance analytics, and report generation.</p>
-        <p><strong>Tech Stack:</strong> Flutter · Firebase · Dart</p>
-        <a href="https://github.com/kteken10/flutter_school_app" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h3>🛒 MyShop - E-commerce Mobile App</h3>
-        <a href="https://github.com/kteken10/flutter_ecommerce_app" target="_blank">
-          <img src="https://via.placeholder.com/300x200/2c3e50/ffffff?text=MyShop+App" width="90%" alt="MyShop Screenshot"/>
-        </a>
-        <p>An e-commerce mobile application with full features: product browsing, shopping cart, secure payment, order management, and user profile.</p>
-        <p><strong>Tech Stack:</strong> Flutter · Flask · Dart · SQLAlchemy (ORM)</p>
-        <a href="https://github.com/kteken10/flutter_ecommerce_app" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
-        </a>
-      </td>
-    </tr>
+   
+    
   </table>
 </div>
 
