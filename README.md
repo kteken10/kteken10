@@ -31,7 +31,7 @@ Here are some of my most significant projects that demonstrate my expertise in m
   <table>
    <tr>
   <td align="center" width="50%">
-    <h3>📚 StudaPart Mobile App</h3>
+    <h3>🏠 StudaPart Mobile App</h3>
     <a href="https://github.com/kteken10/studapart_mobile" target="_blank">
       <img src="https://github.com/user-attachments/assets/4c407cb4-75d2-41cc-88cc-36f23c643670" 
            width="90%" 
