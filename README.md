@@ -58,7 +58,7 @@ Here are some of my most significant projects that demonstrate my expertise in m
       <td align="center" width="50%">
         <h3>📚 EduTrack - School Management</h3>
         <a href="https://github.com/kteken10/flutter_school_app" target="_blank">
-          <img src="https://github.com/user-attachments/assets/your-edutrack-screenshot-id" width="90%" alt="EduTrack Screenshot"/>
+          <img src="https://via.placeholder.com/300x200/2c3e50/ffffff?text=EduTrack+App" width="90%" alt="EduTrack Screenshot"/>
         </a>
         <p>A Flutter-based academic management platform for schools, enabling student monitoring, grade management, performance analytics, and report generation.</p>
         <p><strong>Tech Stack:</strong> Flutter · Firebase · Dart</p>
@@ -66,13 +66,10 @@ Here are some of my most significant projects that demonstrate my expertise in m
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
         </a>
       </td>
-    </tr>
-
-    <tr>
       <td align="center" width="50%">
         <h3>🛒 MyShop - E-commerce Mobile App</h3>
         <a href="https://github.com/kteken10/flutter_ecommerce_app" target="_blank">
-          <img src="https://github.com/user-attachments/assets/your-myshop-screenshot-id" width="90%" alt="MyShop Screenshot"/>
+          <img src="https://via.placeholder.com/300x200/2c3e50/ffffff?text=MyShop+App" width="90%" alt="MyShop Screenshot"/>
         </a>
         <p>An e-commerce mobile application with full features: product browsing, shopping cart, secure payment, order management, and user profile.</p>
         <p><strong>Tech Stack:</strong> Flutter · Flask · Dart · SQLAlchemy (ORM)</p>
