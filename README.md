@@ -64,7 +64,7 @@ Here are some of my most significant projects that demonstrate my expertise in m
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+<!--       <td align="center" width="50%">
         <h3>📚 EduTrack - School Management</h3>
         <a href="https://github.com/kteken10/flutter_school_app" target="_blank">
           <img src="https://github.com/user-attachments/assets/493a2f65-a69d-438b-9bf6-6b4a2e6181e5" width="90%" alt="Chat App Screenshot"/>
@@ -74,7 +74,7 @@ Here are some of my most significant projects that demonstrate my expertise in m
         <a href="https://github.com/kteken10/flutter_school_app" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="View Project"/>
         </a>
-      </td>
+      </td> -->
       <td align="center" width="50%">
         <h3>🛒 MyShop - E-commerce Mobile App</h3>
         <a href="https://github.com/kteken10/flutter_ecommerce_app" target="_blank">
