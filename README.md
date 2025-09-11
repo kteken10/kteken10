@@ -33,7 +33,7 @@ Voici certains de mes projets les plus significatifs qui démontrent mon experti
   <td align="center" width="50%">
     <h3>🏠 Application Mobile StudaPart</h3>
     <a href="https://github.com/kteken10/studapart_mobile" target="_blank">
-      <img src="https://github.com/user-attachments/assets/4c407cb4-75d2-41cc-88cc-36f23c643670" 
+      <img src="https://github.com/user-attachments/assets/80e33986-3025-4a13-b02a-ce507a975d93" 
            width="90%" 
            alt="Capture d'écran de l'appli mobile StudaPart"/>
     </a>
