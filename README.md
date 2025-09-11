@@ -53,7 +53,7 @@ Voici certains de mes projets les plus significatifs qui démontrent mon experti
   <td align="center" width="50%">
     <h3>🛒 MyShop - Application E-commerce Mobile</h3>
     <a href="https://github.com/kteken10/flutter_ecommerce_app" target="_blank">
-      <img src="https://github.com/user-attachments/assets/7eef49b0-e79d-49da-8006-97c5696de468" 
+      <img src="https://github.com/user-attachments/assets/c8a74b4a-52f9-4a31-9f56-6b341a0a29bd" 
            width="90%" 
            alt="Capture d'écran de l'appli e-commerce MyShop"/>
     </a>
