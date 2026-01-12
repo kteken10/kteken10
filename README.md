@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0CE82B&center=true&vCenter=true&width=940&lines=DISSANG+KEVIN;D%C3%A9veloppeur+Mobile+%7C+Flutter+%7C+React+Native+%7C+Kotlin;Expert+IA+%26+Machine+Learning+🤖;Passionate+about+Data-Driven+Apps+📊" alt="Typing SVG" />
-</div>
+ 
 
 <div align="center">
   
