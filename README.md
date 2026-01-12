@@ -52,16 +52,13 @@ class DeveloperProfile {
 ## 🚀 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kteken10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kteken10&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-</div>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kteken10&show_icons=true&theme=tokyonight)](https://github.com/kteken10)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kteken10&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kteken10&layout=compact&theme=tokyonight)](https://github.com/kteken10)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kteken10&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kteken10&theme=tokyonight)](https://github.com/kteken10)
+
 </div>
 
 <!-- Graphique d'activité alternatif si celui ci-dessus ne fonctionne pas -->
