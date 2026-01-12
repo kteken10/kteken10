@@ -49,17 +49,7 @@ class DeveloperProfile {
 
 ---
 
-## 🚀 Statistiques GitHub
 
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kteken10&show_icons=true&theme=tokyonight)](https://github.com/kteken10)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kteken10&layout=compact&theme=tokyonight)](https://github.com/kteken10)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kteken10&theme=tokyonight)](https://github.com/kteken10)
-
-</div>
 
 <!-- Graphique d'activité alternatif si celui ci-dessus ne fonctionne pas -->
 <!-- 
