@@ -16,6 +16,7 @@
 ---
 
 ## 👨‍💻 À Propos
+
 ```dart
 class DeveloperProfile {
   final String name = "DISSANG KEVIN";
@@ -51,17 +52,24 @@ class DeveloperProfile {
 ## 🚀 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kteken10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kteken10&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kteken10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kteken10&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kteken10&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=kteken10&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kteken10&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
+
+<!-- Graphique d'activité alternatif si celui ci-dessus ne fonctionne pas -->
+<!-- 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kteken10&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
+</div>
+-->
 
 ---
 
@@ -193,9 +201,16 @@ class DeveloperProfile {
 
 ## 📊 Contribution Activity
 
+<!-- Option 1: Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kteken10&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
 </div>
+
+<!-- Option 2: Si l'option 1 ne fonctionne pas, décommentez celle-ci
+<div align="center">
+  <img src="https://ghchart.rshah.org/0ce82b/kteken10" alt="GitHub Chart"/>
+</div>
+-->
 
 ---
 
@@ -226,6 +241,7 @@ class DeveloperProfile {
 ---
 
 ## 📈 Statistiques de Code
+
 ```text
 Flutter       ████████████████████░░░   85%
 Python        ███████████████░░░░░░░   65%
