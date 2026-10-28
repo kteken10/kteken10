@@ -57,14 +57,14 @@
       <strong><a href="https://github.com/kteken10/flutter_chat_app">Flutter Chat App</a></strong>: real-time chat with Firebase Auth and Firestore. Flutter.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/kteken10/flutter_mobile_health_app"><strong>MediScanAI</strong></a>: app for healthcare professionals that predicts diseases from clinical data, through a Flask API and machine learning models. Flutter, Python.
-      <br><br>
-      <a href="https://github.com/kteken10/Red-Team-Archi"><strong>ARMS Red Team</strong></a>: teaching exercise on AI compliance. Five AI agents run simulated reconnaissance and attacks, then an EU AI Act audit and risk scoring. Python, Agno.
-      <br><br>
-      More on <a href="https://dissangkevin.work">dissangkevin.work</a>.
+      <a href="https://github.com/kteken10/flutter_mobile_health_app"><img src="https://raw.githubusercontent.com/kteken10/flutter_mobile_health_app/main/docs/banner.png" alt="MediScanAI" width="100%"></a>
+      <strong><a href="https://github.com/kteken10/flutter_mobile_health_app">MediScanAI</a></strong>: clinical risk screening for doctors, with patient follow-up, guided data entry and explained risk scores. Flutter.
     </td>
   </tr>
 </table>
+
+**[ARMS Red Team](https://github.com/kteken10/Red-Team-Archi)**: teaching exercise on AI compliance. Five AI agents run simulated reconnaissance and attacks, then an EU AI Act audit and risk scoring. Python, Agno.
+More on [dissangkevin.work](https://dissangkevin.work).
 
 ### Stack
 
