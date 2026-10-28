@@ -53,8 +53,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/kteken10/flutter_chat_app"><img src="https://raw.githubusercontent.com/kteken10/flutter_chat_app/main/docs/banner.png" alt="Flutter Chat App" width="100%"></a>
-      <strong><a href="https://github.com/kteken10/flutter_chat_app">Flutter Chat App</a></strong>: real-time chat with Firebase Auth and Firestore. Flutter.
+      <a href="https://github.com/kteken10/weechax_app"><img src="https://raw.githubusercontent.com/kteken10/weechax_app/main/docs/banner.png" alt="WeeChax" width="100%"></a>
+      <strong><a href="https://github.com/kteken10/weechax_app">WeeChax</a></strong>: real-time chat with Firebase Auth and Firestore. Flutter.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/kteken10/flutter_mobile_health_app"><img src="https://raw.githubusercontent.com/kteken10/flutter_mobile_health_app/main/docs/banner.png" alt="MediScanAI" width="100%"></a>
