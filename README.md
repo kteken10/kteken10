@@ -47,8 +47,8 @@
       <strong><a href="https://github.com/kteken10/flutter_school_app">EduTrack</a></strong>: school management for admins, teachers and students. Flutter, Firebase.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/kteken10/flutter_shop_app"><img src="https://raw.githubusercontent.com/kteken10/flutter_shop_app/main/docs/banner.png" alt="My Shop" width="100%"></a>
-      <strong><a href="https://github.com/kteken10/flutter_shop_app">My Shop</a></strong>: e-commerce app with catalog, product pages and cart. Flutter.
+      <a href="https://github.com/kteken10/modea_app"><img src="https://raw.githubusercontent.com/kteken10/modea_app/main/docs/banner.png" alt="Modéa" width="100%"></a>
+      <strong><a href="https://github.com/kteken10/modea_app">Modéa</a></strong>: fashion e-commerce app with catalog, product pages and cart. Flutter.
     </td>
   </tr>
   <tr>
